@@ -1,7 +1,7 @@
 <h1 align="center">👨‍💻 José Nilton</h1>
 
 <p align="center">
-  🚀 Desenvolvedor de Software em formação com foco em Java, automação de processos e análise de dados
+  🚀 Desenvolvedor de Software em formação | Java | Automação | Dados
 </p>
 
 ---
@@ -20,18 +20,18 @@ Atualmente, estudo desenvolvimento de software com foco em Java, lógica de prog
 
 ## 📈 Destaque
 
-- Redução de aproximadamente **25% dos erros operacionais** através de automação em Excel
-- Experiência prática com processos digitais e fluxo de produção
-- Interesse em desenvolvimento de software, dados, automação e melhoria contínua
+- Redução de aproximadamente **25% dos erros operacionais** através de automação em Excel  
+- Experiência prática com processos digitais e fluxo de produção  
+- Interesse em desenvolvimento de software, automação e análise de dados  
 
 ---
 
 ## 🚀 Projetos em destaque
 
-- 💻 [Odonto+ | Sistema de Agendamento Odontológico](https://github.com/almeidanilton/Odonto--Sistema-de-Agendamento-Odontologico) — sistema para organização de atendimentos odontológicos
-- 📊 [Base das Linguagens](https://github.com/almeidanilton/projeto-imersao-alura-2025) — projeto para explorar linguagens de programação
-- ☕ [Java Fundamentos | Exercícios e Estudos](https://github.com/almeidanilton/atividade-java-alura) — estudos de lógica e fundamentos em Java
-- 🌐 [Meu Portfólio](https://github.com/almeidanilton/Meu-portfolio) — site pessoal com trajetória e projetos
+- 💻 [Odonto+ | Sistema de Agendamento Odontológico](https://github.com/almeidanilton/Odonto--Sistema-de-Agendamento-Odontologico) — sistema para organização de atendimentos  
+- 📊 [Base das Linguagens](https://github.com/almeidanilton/projeto-imersao-alura-2025) — plataforma para explorar linguagens de programação  
+- ☕ [Java Fundamentos](https://github.com/almeidanilton/atividade-java-alura) — estudos de lógica e fundamentos  
+- 🌐 [Meu Portfólio](https://github.com/almeidanilton/Meu-portfolio) — site pessoal com projetos  
 
 ---
 
@@ -55,9 +55,9 @@ Java | JavaScript | HTML | CSS | Python | Git | GitHub | Excel
 
 <div align="center">
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=almeidanilton&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=almeidanilton&show_icons=true&theme=radical" />
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=almeidanilton&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=almeidanilton&layout=compact&theme=radical" />
 
 </div>
 
@@ -67,7 +67,7 @@ Java | JavaScript | HTML | CSS | Python | Git | GitHub | Excel
 
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/almeidanilton/almeidanilton/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/almeidanilton/almeidanilton/output/github-contribution-grid-snake.svg" />
 
 </div>
 
