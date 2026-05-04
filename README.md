@@ -14,7 +14,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas e estou em transição d
 
 Tenho experiência prática com processos digitais em laboratório de prótese dentária, atuando com organização de fluxos, controle de produção, impressão 3D e automação de processos.
 
-Atualmente, estudo desenvolvimento de software com foco em Java, lógica de programação, Git/GitHub, automação e dados.
+Atualmente, estudo desenvolvimento de software com foco em Java, lógica de programação, Git/GitHub, automação, dados e IA. 
 
 ---
 
