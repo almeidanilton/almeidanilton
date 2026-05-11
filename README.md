@@ -1,20 +1,20 @@
 <h1 align="center">👨‍💻 José Nilton</h1>
 
 <p align="center">
-  Desenvolvedor de Software em formação | Java | Automação de Processos | Dados | Cloud | IA
+  Desenvolvedor de Software | Java • APIs • AWS • Mobile Development • Cybersecurity
 </p>
 
 ---
 
 ## 🧠 Sobre mim
 
-Me chamo José Nilton, tenho 22 anos e sou de São Paulo.
+Prazer me chamo José Nilton, Tenho 22 anos e sou de São Paulo.
 
-Sou estudante de Análise e Desenvolvimento de Sistemas e estou em transição de carreira para a área de tecnologia.
+Atualmente curso Análise e Desenvolvimento de Sistemas e estou em transição da Odontologia Digital para a área de Tecnologia.
 
-Tenho experiência prática com processos digitais em laboratório de prótese dentária, atuando com organização de fluxos, controle de produção, impressão 3D e automação de processos.
+Minha experiência anterior envolveu fluxos digitais, softwares CAD/CAM, automações e organização de processos em ambiente laboratorial, o que me trouxe uma visão prática sobre eficiência operacional e tecnologia aplicada.
 
-Atualmente, estudo desenvolvimento de software com foco em Java, lógica de programação, Git/GitHub, automação, dados e IA .
+Hoje direciono meus estudos para desenvolvimento de software com foco em Java, APIs, AWS, Mobile Development e Cybersecurity, buscando evoluir através de projetos práticos e soluções reais.
 
 ---
 
