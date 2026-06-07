@@ -8,13 +8,22 @@
 
 ## 🧠 Sobre mim
 
-Prazer me chamo José Nilton, Tenho 22 anos e sou de São Paulo.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas
 
-Atualmente curso Análise e Desenvolvimento de Sistemas e estou em transição da Odontologia Digital para a área de Tecnologia.
+💻 Desenvolvedor em Formação
 
-Minha experiência anterior envolveu fluxos digitais, softwares CAD/CAM, automações e organização de processos em ambiente laboratorial, o que me trouxe uma visão prática sobre eficiência operacional e tecnologia aplicada.
+📱 Mobile Development
 
-Hoje direciono meus estudos para desenvolvimento de software com foco em Java, APIs, AWS, Mobile Development e Cybersecurity, buscando evoluir através de projetos práticos e soluções reais.
+☁️ Computação em Nuvem
+
+🔒 Cybersecurity
+
+🤖 AI Solutions
+
+🚀 Construindo projetos reais para aprender, evoluir e resolver problemas através da tecnologia.
+
+Atualmente desenvolvendo aplicações, automações e soluções digitais voltadas para web, mobile, cloud e inteligência artificial.
+
 
 ---
 
