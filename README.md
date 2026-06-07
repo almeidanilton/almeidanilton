@@ -1,29 +1,27 @@
+
 <h1 align="center">👨‍💻 José Nilton</h1>
 
 <p align="center">
-  Desenvolvedor de Software | Java • APIs • AWS • Mobile Development • Cybersecurity
+  Desenvolvedor em Formação | Mobile Development • Cloud Computing • Cybersecurity • AI Solutions
+</p>
+
+<p align="center">
+  🚀 Construindo soluções em Software, Cloud, IA e Segurança
 </p>
 
 ---
 
 ## 🧠 Sobre mim
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas
+🎓 Estudante de Análise e Desenvolvimento de Sistemas pela Universidade São Judas Tadeu
 
-💻 Desenvolvedor em Formação
+💻 Desenvolvedor em Formação focado em Mobile Development, Cloud Computing, Cybersecurity e Inteligência Artificial.
 
-📱 Mobile Development
+🔄 Em transição da área de Odontologia Digital para Tecnologia, trazendo experiência com fluxos digitais, sistemas CAD/CAM, automações e otimização de processos.
 
-☁️ Computação em Nuvem
+🚀 Atualmente desenvolvo projetos voltados para aplicações web, APIs, automação, computação em nuvem e soluções com IA, buscando transformar conhecimento em soluções práticas para problemas reais.
 
-🔒 Cybersecurity
-
-🤖 AI Solutions
-
-🚀 Construindo projetos reais para aprender, evoluir e resolver problemas através da tecnologia.
-
-Atualmente desenvolvendo aplicações, automações e soluções digitais voltadas para web, mobile, cloud e inteligência artificial.
-
+📚 Em constante aprendizado através de projetos, certificações e desenvolvimento contínuo.
 
 ---
 
@@ -33,6 +31,8 @@ Atualmente desenvolvendo aplicações, automações e soluções digitais voltad
 - 📊 [Base das Linguagens](https://github.com/almeidanilton/projeto-imersao-alura-2025)
 - ☕ [Java Fundamentos | Exercícios e Estudos](https://github.com/almeidanilton/atividade-java-alura)
 - 🌐 [Meu Portfólio](https://github.com/almeidanilton/Meu-portfolio)
+
+> 🦷 Em desenvolvimento: LabFlow — Plataforma de Gestão e Controle de Produção Laboratorial
 
 ---
 
@@ -50,6 +50,20 @@ Atualmente desenvolvendo aplicações, automações e soluções digitais voltad
 
 ---
 
+## 🎯 Áreas de Interesse
+
+📱 Mobile Development
+
+☁️ Cloud Computing
+
+🔒 Cybersecurity
+
+🤖 Artificial Intelligence
+
+🌐 Desenvolvimento Web
+
+---
+
 ## 🌐 Conecte-se comigo
 
 <p>
@@ -61,3 +75,4 @@ Atualmente desenvolvendo aplicações, automações e soluções digitais voltad
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
+```
