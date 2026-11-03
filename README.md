@@ -8,7 +8,7 @@
   <a href="mailto:almeidanilton555@gmail.com">E-mail</a>
 </p>
 
-## Oi, pode me chamar de Zé.
+## Opa, pode me chamar de Zé.
 
 Estudo **Análise e Desenvolvimento de Sistemas na FIAP** e exploro **Cybersecurity e Desenvolvimento de Software**. Vim da odontologia digital e transformo problemas da rotina em projetos, conectando tecnologia, automação e aprendizado.
 
@@ -22,7 +22,6 @@ Estudo **Análise e Desenvolvimento de Sistemas na FIAP** e exploro **Cybersecur
 
 | Projeto | O que estou construindo |
 | --- | --- |
-| [LabFlow](https://github.com/almeidanilton/labflow-system) | Organização e acompanhamento da produção em laboratórios de prótese. |
 | [Curadoria Tech com IA](https://github.com/almeidanilton/automacao-curadoria-tech-ia) | Feeds RSS, resumos com Gemini e integração com Discord. |
 | [Download Organizer](https://github.com/almeidanilton/cloud-ready-download-organizer) | Organização de arquivos do laboratório com Java. |
 | [NilCAD Digital — apresentação](https://almeidanilton.github.io/portfolio-jose_nilton/) | Controle de materiais e movimentações de estoque CAD/CAM. |
