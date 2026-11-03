@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.svg" alt="José Nilton — Cybersecurity e Desenvolvimento de Software. Estudante de ADS na FIAP." width="100%" />
+  <img src="assets/header.svg" alt="José Nilton — Curiosidade que vira projeto. Estudante de ADS na FIAP." width="100%" />
 </p>
 
 <p align="center">
